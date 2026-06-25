@@ -1,4 +1,4 @@
-### 👋 Hi, saya [Nama Kamu] — seorang [Peran/Minat] yang senang bereksperimen dengan kode dan teknologi. 🚀
+### 👋 Hi, saya Tessar — seorang Pelajar yang senang bereksperimen dengan kode dan teknologi. 🚀
 
 <br>
 
