@@ -2,12 +2,6 @@
 
 Hi, I'm Tessar! A student who loves experimenting with code and technology. I've just started my coding journey—let's build something cool together!
 
-## About me
-
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/username_kamu](https://www.instagram.com/tessarfebrsy?igsh=ZTBnM2Vydnp6OW43))
-
-
 
 ## I code with
 
